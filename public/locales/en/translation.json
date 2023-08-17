@@ -1,0 +1,133 @@
+{
+  "navbar": {
+    "Stroy": "Stroy Control",
+    "Glavnaya": "Home",
+    "O nas": "About Us",
+    "Producsiya": "Products",
+    "Prosess": "Process",
+    "Nadyognost": "Reliability",
+    "Klienti": "Clients",
+    "Demo": "Request a demo"
+  },
+  "text": {
+    "Umnaya Dostavka": "Smart material delivery for challenging construction sites"
+  },
+  "card": {
+    "text1": "Improving Efficiency",
+    "text2": "Effective projects cost less and are completed on time."
+  },
+  "card1": {
+    "text1": "Construction is chaos",
+    "text2": "Chaos can be an amazing creative force, building new buildings out of the dust.Chaos causes accidents, delays and losses. He introduces projects into stress and frustration.This means that you are not really in control of the situation.",
+    "text3": "It's time to clean up your construction site and take control of your project"
+  },
+
+  "card2": {
+    "text1": "We take care of deliveries to the construction site and the people who rely on them",
+    "text2": "We know all about pride from a shiny new building. We also know all about the frustration of trying to complete a project on time and on budget.",
+    "text3": "We are here to help."
+  },
+
+  "card3": {
+    "text1": "What is StroyControl?",
+    "text2": "StroyControl is an intelligent delivery management system that provides information and control of materials on complex construction sites in real time."
+  },
+  "card4": {
+    "text1": "Track delivery throughout the supply chain",
+    "text2": "From supplier to subcontractor, you always know where your materials are, making conventional waste a thing of the past and reducing on-site accidents."
+  },
+
+  "card5": {
+    "text1": "Optimize and control your arrival on site",
+    "text2": "Delivery vehicles arrive at fixed intervals at pre-designated bays where unloading equipment is ready and waiting for them."
+  },
+
+  "card6": {
+    "text1": "Take control of your data in real time",
+    "text2": "Smart reporting empowers you to make decisions based on how things are at the moment. No more manual pour reports or 10,000 monthly invoice checks, it's all available online with no effort."
+  },
+
+  "card7": {
+    "text1": "Delivery made easy",
+    "text2": "We take care of all your various deliveries and their many specialized unloading requirements."
+  },
+
+  "card8": {
+    "text1": "Reliability",
+    "text2": "Thanks to reliable construction, everyone wins - municipalities fulfill their obligations to citizens, investors receive certificates for their projects, and general contractors receive an increased reputation."
+  },
+
+  "card9": {
+    "text1": "Reduced pollution",
+    "text2": "By optimizing logistics, fewer trips are required, resulting in lower CO2 emissions. CO2 emissions are controlled, allowing you to set goals and make measurable improvements.",
+    "text3": "Идоракунии партовҳои беҳтаршуда",
+    "text4": "Ба навъбандии партовҳо содда карда шуда, партовҳои партовҳо автоматӣ карда мешаванд ва маводи вайроншуда ҳангоми зарурат дубора истифода мешаванд, ки ин хароҷотро коҳиш медиҳад ва коркард ва истифодаи дубораро ҳавасманд мекунад.",
+    "text5": "Improved impact on society",
+    "text6": "Traffic problems and noise pollution are reduced, which improves the life of the local community. Improved material handling and storage means workers are also better protected."
+  },
+
+  "card10": {
+    "text1": "Built for construction",
+    "text2": "Good visibility in all conditions",
+    "text3": "Whether it's sunny or dark, there's a screen mode to suit",
+    "text4": "Support for international languages",
+    "text5": "People from all over the world work at a modern construction site. Language is not a problem for StroyKontrol.",
+    "text6": "Works on any device - mobile phone, tablet, laptop",
+    "text7": "People in different positions use different devices. StroyControl is automatically configured in accordance with the requirements. You can also project live project dashboards onto wallboards.",
+    "text8": "Request a demo",
+    "text9": "More"
+  },
+  "card11": {
+    "text1": "Involvement of a subcontractor",
+    "text2": "You will need your subcontractors to carry out this work. We have a proven and reliable process for this.",
+    "text3": "Key suppliers involved",
+    "text4": "We already have key vendors using the software, which gives us even more control and transparency.",
+    "text5": "100% match",
+    "text6": "We have an impeccable list of compliance assurance you need to successfully complete your project with StroyControl."
+  },
+
+  "card12": {
+    "text1": "How to work with us",
+    "text2": "Getting started with StroyControl is easy, just order a demo version.",
+    "text3": "Request a demo",
+    "text4": "You will see a presentation explaining in detail how StroyControl works to solve construction logistics problems in complex projects like yours.",
+    "text5": "Deal approval",
+    "text6": "We will discuss your construction project and offer a StroyControl implementation that perfectly fits your needs and will be of value to you.",
+    "text7": "Preparation",
+    "text8": "We fully train your team on how to use the system with online video tutorials and provide ongoing comprehensive support.",
+    "text9": "Implementation and integration",
+    "text10": "We customize the software to accurately model your site and then help you integrate it with your Business Intelligence software for powerful new insights."
+  },
+
+  "card13": {
+    "text1": "Why choose us?",
+    "text2": "There is always room for improvement in construction logistics.",
+    "text3": "Award winning software",
+    "text4": "World renowned software recognized by government agencies, innovation groups and technical organizations",
+    "text5": "Big potential",
+    "text6": "Included in the top 25 most promising ConTech startups according to Cemex Ventures, Moscow Consulting Group, BuiltWorld and PwC",
+    "text7": "Choice of market leaders",
+    "text8": "Featured technology supplier for 3 of the top 10 general contractors in Europe",
+    "text9": "Sustainability and security",
+    "text10": "Helps reduce CO2 emissions and improves on-site safety",
+    "text11": "We see great potential in solutions like StroyKontrol and want to use them to improve our construction processes.",
+    "text12": "Ready to optimize delivery logistics for your complex project?",
+    "text13": "Connect with us"
+  },
+
+  "card14": {
+    "text1": "c.Moscow",
+    "text2": "Presnenskaya emb., 88, of. 527",
+    "text3": "info@stroycontrol.ru",
+    "text4": "+7 (945) 123-45-67",
+    "text5": "Our product",
+    "text6": "Process",
+    "text7": "Products",
+    "text8": "Service",
+    "text9": "Clients",
+    "text10": "Reliability",
+    "text11": "Company",
+    "text12": "About Us",
+    "text13": "Connect with us"
+  }
+}
